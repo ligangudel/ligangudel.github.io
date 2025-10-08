@@ -1,5 +1,5 @@
 title: Researcher
-url: "https://ligang.github.io"
+url: "https://ligangudel.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -7,7 +7,7 @@ markdown: kramdown
 tracking_id: #
 
 # footer: yes
-# footer_url: "https://ligang.github.io"
+# footer_url: "https://ligangudel.github.io"
 
 sass:
     style: compressed
