@@ -1,0 +1,22 @@
+title: Researcher
+url: "https://ligang.github.io"
+baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: #
+
+# footer: yes
+# footer_url: "https://ligang.github.io"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
