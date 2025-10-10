@@ -1,6 +1,9 @@
 @import "vars";
 
 .content {
+    a {
+        color: cadetblue;
+    }
     a:hover {
         text-decoration: underline;
     }
