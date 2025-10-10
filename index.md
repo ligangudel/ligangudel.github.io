@@ -12,7 +12,7 @@ Hi! I'm a Research Scientist at [Orby AI](http://orby.ai/).
 
 I have been focusing on multimodal LLM post-training recently, specifically multi-turn RL for GUI agents. In the past, I worked on multimodal LLMs for GUI understanding and user modeling.
 
-## Selected Publications {: #pub}
+## Selected Publications
 
 1. **Gang Li** and Yang Li. [Spotlight: Mobile UI understanding using vision-language models with a focus](https://arxiv.org/abs/2209.14927). In
 The Eleventh International Conference on Learning Representations, 2023. [[Google Research Blog](https://research.google/blog/a-vision-language-approach-for-foundational-ui-understanding/)].
