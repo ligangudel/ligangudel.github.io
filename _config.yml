@@ -6,7 +6,7 @@ markdown: kramdown
 
 tracking_id: #
 
-# footer: yes
+footer: yes
 # footer_url: "https://ligangudel.github.io"
 
 sass:
@@ -18,5 +18,7 @@ nav:
    link: "/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "LinkedIn"
+   link: "https://linkedin.com/in/ligangudel"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com/citations?user=gmBt9v8AAAAJ&hl=en"

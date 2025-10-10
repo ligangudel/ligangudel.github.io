@@ -6,38 +6,21 @@ layout: default
 
 <img class="profile-picture" src="self.jpeg">
 
-Hi!
+Hi! I'm a Research Scientist at [Orby AI](http://orby.ai/).
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I have been focusing on multimodal LLM post-training recently, specifically multi-turn RL for GUI agents. In the past, I worked on multimodal LLMs for GUI understanding and user modeling.
 
-## Publications
+## Selected Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. **Gang Li** and Yang Li. [Spotlight: Mobile UI understanding using vision-language models with a focus](https://arxiv.org/abs/2209.14927). In
+The Eleventh International Conference on Learning Representations, 2023. [[Google Research Blog](https://research.google/blog/a-vision-language-approach-for-foundational-ui-understanding/)].
+2. Youwei Liang*, Junfeng He*, **Gang Li***, Peizhao Li, Arseniy Klimovskiy, Nicholas Carolan, Jiao Sun, Jordi
+Pont-Tuset, Sarah Young, Feng Yang, Junjie Ke, Krishnamurthy Dj Dvijotham, Katie Collins, Yiwen Luo,
+Yang Li, Kai J Kohlhoff, Deepak Ramachandran, and Vidhya Navalpakkam. [Rich human feedback for
+text-to-image generation](https://arxiv.org/abs/2312.10240). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+Recognition, 2024. * Co-first authors. Best Paper Award. [[Google Research Blog]](https://research.google/blog/rich-human-feedback-for-text-to-image-generation/).
+3. Bryan Wang, **Gang Li**, and Yang Li. [Enabling conversational interaction with mobile UI using large language
+models](https://arxiv.org/abs/2209.08655). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pages 1–17, 2023. [[Google Research Blog]](https://research.google/blog/enabling-conversational-interaction-on-mobile-with-llms/).
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
