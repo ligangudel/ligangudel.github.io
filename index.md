@@ -24,3 +24,4 @@ Recognition, 2024. * Co-first authors. Best Paper Award. [[Google Research Blog]
 3. Bryan Wang, **Gang Li**, and Yang Li. [Enabling conversational interaction with mobile UI using large language
 models](https://arxiv.org/abs/2209.08655). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pages 1–17, 2023. [[Google Research Blog]](https://research.google/blog/enabling-conversational-interaction-on-mobile-with-llms/).
 
+Full list can be found on my Google Scholar page.
