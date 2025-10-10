@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="self.jpeg">
 
-Hi! I'm a Research Scientist at [Orby AI](http://orby.ai/).
+Hi! I'm a Research Scientist at [Orby AI](http://orby.ai/). Previously, I worked in Google Research / DeepMind.
 
 ## Research Interest
 
@@ -24,4 +24,4 @@ Recognition, 2024. * Co-first authors. Best Paper Award. [[Google Research Blog]
 3. Bryan Wang, **Gang Li**, and Yang Li. [Enabling conversational interaction with mobile UI using large language
 models](https://arxiv.org/abs/2209.08655). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pages 1–17, 2023. [[Google Research Blog](https://research.google/blog/enabling-conversational-interaction-on-mobile-with-llms/)].
 
-The full list can be found on my Google Scholar page.
+The full list can be found on my [Google Scholar page](https://scholar.google.com/citations?user=gmBt9v8AAAAJ&hl=en).
