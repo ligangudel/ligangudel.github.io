@@ -20,8 +20,8 @@ The Eleventh International Conference on Learning Representations, 2023. [[Googl
 Pont-Tuset, Sarah Young, Feng Yang, Junjie Ke, Krishnamurthy Dj Dvijotham, Katie Collins, Yiwen Luo,
 Yang Li, Kai J Kohlhoff, Deepak Ramachandran, and Vidhya Navalpakkam. [Rich human feedback for
 text-to-image generation](https://arxiv.org/abs/2312.10240). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-Recognition, 2024. * Co-first authors. Best Paper Award. [[Google Research Blog]](https://research.google/blog/rich-human-feedback-for-text-to-image-generation/).
+Recognition, 2024. * Co-first authors. Best Paper Award. [[Google Research Blog](https://research.google/blog/rich-human-feedback-for-text-to-image-generation/)].
 3. Bryan Wang, **Gang Li**, and Yang Li. [Enabling conversational interaction with mobile UI using large language
-models](https://arxiv.org/abs/2209.08655). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pages 1–17, 2023. [[Google Research Blog]](https://research.google/blog/enabling-conversational-interaction-on-mobile-with-llms/).
+models](https://arxiv.org/abs/2209.08655). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pages 1–17, 2023. [[Google Research Blog](https://research.google/blog/enabling-conversational-interaction-on-mobile-with-llms/)].
 
 Full list can be found on my Google Scholar page.
